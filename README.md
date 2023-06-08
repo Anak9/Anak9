@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anak9
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning OpenGL
 - 📫 sarahelias308@gmail.com
 
 <!---
