@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anak9
+- 👋 Hi, I’m Sarah,
 - 🌱 I’m currently learning OpenGL
 - 📫 sarahelias308@gmail.com
 
